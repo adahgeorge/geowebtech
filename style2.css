@@ -43,7 +43,7 @@ body::before{
 }
 .main_site_content1 button{
     background: none;
-    width: 50%;
+    width: 100px;
     border: 1px solid crimson;
     font-size: 2rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
